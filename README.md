@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omertairi04
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking for an intership
 - 📫 How to reach me otairi010@gmail.com
 
 <!---
