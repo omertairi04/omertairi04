@@ -3,7 +3,6 @@
 - 🌱 I’m currently working with Nodejs/Django
 - 💞️ I’m enjoying the journey
 - 📫 How to reach me otairi010@gmail.com
-- 🙏 Whoever praying on my downfall, please stop you've won
 <!---
 omertairi04/omertairi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
