@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omertairi04
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently working with Nodejs/Django
+- 🌱 I’m currently working with Nodejs/Django/dotNet
 - 💞️ I’m enjoying the journey
 - 📫 How to reach me otairi010@gmail.com
 <!---
